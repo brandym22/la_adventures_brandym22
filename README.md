@@ -12,8 +12,8 @@
     *Made by* **Your Name**  
     On 10-22-2016  
 
-    My Coach: (your coach's name)  
-    My Pair: (your coach's name)
+    My Coach: David Turner  
+    My Pair: Lavenia Stewart
 
 # README
 
